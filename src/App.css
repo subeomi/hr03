@@ -1,3 +1,9 @@
+body {
+  /* background-image: url( "../public/images/bg3.jpg" ); */
+  background-color: rgb(120, 149, 248);
+  background-size: cover;
+}
+
 .App {
   text-align: center;
 }
